@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Claire R. McNellan"
+theme = "mero"
+disableKinds = ["taxonomyTerm"]
+
+[params]
+  dateFormat = "2006-01-02" 
+  author = "Claire R. McNellan"
+  description = "My  blog"
+  mainImage = "images/CRM.jpg"
+  ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params.introduction]
+   text = """
+   I’m a researcher interested in **child welfare, data tech, health policy, and intersections with inequalities.** My work focuses on using creative, data-driven evaluation methods to improve programs and policies focused on the well-being of **children, women, and families.** I’ve helped bring over 15 quantitative analyses to publication. I’m also a freelance editor for Cambridge Proofreading LLC.  
+  
+   In 2017, I earned a fully funded **MPH in Global Health: Health Metrics and Evaluation** from the University of Washington. I’ve worked with large social and health data sets at the Institute for Health Metrics and Evaluation (IHME) and the National Court Appointed Special Advocates (CASA)/Guardians ad Litem (GAL) Association for Children. I am a graduate of Colorado College, where I received distinction in **Neuroscience** and designed and self-directed a **Bioethics** minor. This fall, I intend to transition to a PhD program in Social Work.  
+  
+   My side hustles include Irish dancing and scavenging thrift stores in search of vintage Fiestaware."""
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "https://www.linkedin.com/in/claire-mcnellan-57324063/"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-wordpress"
+  url = "https://clairemcnellan.wordpress.com/"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-twitter"
+  url = "https://twitter.com/claireyruth"
+
+
+[params.footer]
+  message = "&copy; 2020 Claire R. McNellan"

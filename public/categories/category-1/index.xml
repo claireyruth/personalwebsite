@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category 1 on Claire R. McNellan</title>
+    <link>/categories/category-1/</link>
+    <description>Recent content in Category 1 on Claire R. McNellan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My CV</title>
+      <link>/cv/test-1/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/test-1/</guid>
+      <description>DOWNLOAD</description>
+    </item>
+    
+    <item>
+      <title>Supply-side interventions to improve health: Findings from the Salud Mesoamerica Initiative</title>
+      <link>/select-publications/post-3/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-3/</guid>
+      <description>https://doi.org/10.1371/journal.pone.0195292 Background Results-based aid (RBA) is increasingly used to incentivize action in health. In Mesoamerica, the region consisting of southern Mexico and Central America, the RBA project known as the Salud Mesoamérica Initiative (SMI) was designed to target disparities in maternal and child health, focusing on the poorest 20% of the population across the region.
+Methods and findings Data were first collected in 365 intervention health facilities to establish a baseline of indicators.</description>
+    </item>
+    
+    <item>
+      <title>Coverage and timing of antenatal care among poor women in 6 Mesoamerican countries</title>
+      <link>/select-publications/post-4/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-4/</guid>
+      <description>https://doi.org/10.1186/s12884-016-1018-5
+Background Poor women in the developing world have a heightened need for antenatal care (ANC) but are often the least likely to attend it. This study examines factors associated with the number and timing of ANC visits for poor women in Guatemala, Honduras, Mexico, Nicaragua, Panama, and El Salvador.
+Methods We surveyed 8366 women regarding the ANC they attended for their most recent birth in the past two years. We conducted logistic regressions to examine demographic, household, and health characteristics associated with attending at least one skilled ANC visit, four skilled visits, and a skilled visit in the first trimester.</description>
+    </item>
+    
+    <item>
+      <title>Measuring the health-related Sustainable Development Goals in 188 countries: A baseline analysis from the Global Burden of Disease Study 2015</title>
+      <link>/select-publications/post-5/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-5/</guid>
+      <description>https://doi.org/10.1016/S0140-6736(16)31467-2
+Background In September, 2015, the UN General Assembly established the Sustainable Development Goals (SDGs). The SDGs specify 17 universal goals, 169 targets, and 230 indicators leading up to 2030. We provide an analysis of 33 health-related SDG indicators based on the Global Burden of Diseases, Injuries, and Risk Factors Study 2015 (GBD 2015).
+Methods We applied statistical methods to systematically compiled data to estimate the performance of 33 health-related SDG indicators for 188 countries from 1990 to 2015.</description>
+    </item>
+    
+  </channel>
+</rss>

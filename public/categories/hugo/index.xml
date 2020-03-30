@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Claire R. McNellan</title>
+    <link>/categories/hugo/</link>
+    <description>Recent content in Hugo on Claire R. McNellan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Antenatal care as a means to increase participation in the continuum of maternal and child healthcare: an analysis of the poorest regions of four Mesoamerican countries</title>
+      <link>/select-publications/post-1/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-1/</guid>
+      <description>https://doi.org/10.1186/s12884-019-2207-9
+Background Antenatal care (ANC) is a means to identify high-risk pregnancies and educate women so that they might experience a healthier delivery and outcome. There is a lack of evidence about whether receipt of ANC is an effective strategy for keeping women in the system so they partake in other maternal and child interventions, particularly for poor women. The present analysis examines whether ANC uptake is associated with other maternal and child health behaviors in poor mothers in Guatemala, Honduras, Nicaragua, and Mexico (Chiapas).</description>
+    </item>
+    
+  </channel>
+</rss>

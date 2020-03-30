@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claire R. McNellan</title>
+    <link>/</link>
+    <description>Recent content on Claire R. McNellan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My CV</title>
+      <link>/cv/test-1/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/test-1/</guid>
+      <description>DOWNLOAD</description>
+    </item>
+    
+    <item>
+      <title>Antenatal care as a means to increase participation in the continuum of maternal and child healthcare: an analysis of the poorest regions of four Mesoamerican countries</title>
+      <link>/select-publications/post-1/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-1/</guid>
+      <description>https://doi.org/10.1186/s12884-019-2207-9
+Background Antenatal care (ANC) is a means to identify high-risk pregnancies and educate women so that they might experience a healthier delivery and outcome. There is a lack of evidence about whether receipt of ANC is an effective strategy for keeping women in the system so they partake in other maternal and child interventions, particularly for poor women. The present analysis examines whether ANC uptake is associated with other maternal and child health behaviors in poor mothers in Guatemala, Honduras, Nicaragua, and Mexico (Chiapas).</description>
+    </item>
+    
+    <item>
+      <title>Public knowledge of cardiovascular disease and response to acute cardiac events in three cities in China and India</title>
+      <link>/select-publications/post-2/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-2/</guid>
+      <description>http://dx.doi.org/10.1136/heartjnl-2017-311388
+Objective To inform interventions targeted towards reducing mortality from acute myocardial infarction (AMI) and sudden cardiac arrest in three megacities in China and India, a baseline assessment of public knowledge, attitudes and practices was performed.
+Methods A household survey, supplemented by focus group and individual interviews, was used to assess public understanding of cardiovascular disease (CVD) risk factors, AMI symptoms, cardiopulmonary resuscitation (CPR) and automated external defibrillators (AEDs). Additionally, information was collected on emergency service utilisation and associated barriers to care.</description>
+    </item>
+    
+    <item>
+      <title>Supply-side interventions to improve health: Findings from the Salud Mesoamerica Initiative</title>
+      <link>/select-publications/post-3/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-3/</guid>
+      <description>https://doi.org/10.1371/journal.pone.0195292 Background Results-based aid (RBA) is increasingly used to incentivize action in health. In Mesoamerica, the region consisting of southern Mexico and Central America, the RBA project known as the Salud Mesoamérica Initiative (SMI) was designed to target disparities in maternal and child health, focusing on the poorest 20% of the population across the region.
+Methods and findings Data were first collected in 365 intervention health facilities to establish a baseline of indicators.</description>
+    </item>
+    
+    <item>
+      <title>Coverage and timing of antenatal care among poor women in 6 Mesoamerican countries</title>
+      <link>/select-publications/post-4/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-4/</guid>
+      <description>https://doi.org/10.1186/s12884-016-1018-5
+Background Poor women in the developing world have a heightened need for antenatal care (ANC) but are often the least likely to attend it. This study examines factors associated with the number and timing of ANC visits for poor women in Guatemala, Honduras, Mexico, Nicaragua, Panama, and El Salvador.
+Methods We surveyed 8366 women regarding the ANC they attended for their most recent birth in the past two years. We conducted logistic regressions to examine demographic, household, and health characteristics associated with attending at least one skilled ANC visit, four skilled visits, and a skilled visit in the first trimester.</description>
+    </item>
+    
+    <item>
+      <title>Measuring the health-related Sustainable Development Goals in 188 countries: A baseline analysis from the Global Burden of Disease Study 2015</title>
+      <link>/select-publications/post-5/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/select-publications/post-5/</guid>
+      <description>https://doi.org/10.1016/S0140-6736(16)31467-2
+Background In September, 2015, the UN General Assembly established the Sustainable Development Goals (SDGs). The SDGs specify 17 universal goals, 169 targets, and 230 indicators leading up to 2030. We provide an analysis of 33 health-related SDG indicators based on the Global Burden of Diseases, Injuries, and Risk Factors Study 2015 (GBD 2015).
+Methods We applied statistical methods to systematically compiled data to estimate the performance of 33 health-related SDG indicators for 188 countries from 1990 to 2015.</description>
+    </item>
+    
+  </channel>
+</rss>
