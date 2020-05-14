@@ -8,4 +8,4 @@ tags:
 title: My CV
 ---
 
-[DOWNLOAD](https://www.dropbox.com/s/6sj09qpo995x5gi/McNellanCV2019_DU.pdf?dl=0)
+[DOWNLOAD](https://www.dropbox.com/s/xeukruvd4xv587h/McNellanCV20200512.pdf?dl=0)

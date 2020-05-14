@@ -33,7 +33,7 @@ disableKinds = ["taxonomyTerm"]
   [[params.social.list]]
   class = "fab"
   icon = "fa-twitter"
-  url = "https://twitter.com/claireruthm"
+  url = "https://twitter.com/claireyruth"
 
 
 [params.footer]
