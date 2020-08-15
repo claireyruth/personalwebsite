@@ -13,11 +13,11 @@ disableKinds = ["taxonomyTerm"]
 
 [params.introduction]
    text = """
-   I’m a researcher interested in **child welfare, data tech, health policy, and intersections with inequalities.** My work focuses on using creative, data-driven evaluation methods to improve programs and policies focused on the well-being of **children, women, and families.** I’ve helped bring over 15 quantitative analyses to publication. I am currently working as a freelance data consultant and have an appointment in the Department of Global Health at the University of Washington. I’m also a freelance editor for Cambridge Proofreading LLC.  
-   
-   In 2017, I earned a fully-funded **MPH in Global Health: Health Metrics and Evaluation** from the University of Washington. I’ve worked with large social and health data sets at the Institute for Health Metrics and Evaluation (IHME), the Public Health Foundation of India (PHFI), and the National Court Appointed Special Advocates (CASA)/Guardians ad Litem (GAL) Association for Children. I am a graduate of Colorado College, where I graduated with distinction in **Neuroscience** and designed and self-directed a **Bioethics** minor. This fall, I intend to transition to a Ph.D. program in Social Work.  
-  
-   My side hustles include Irish dancing and scavenging thrift stores in search of vintage Fiestaware."""
+   I’m a doctoral student and researcher interested in applying **epidemiological methods** to **child welfare** programs, policies, and systems. I am interested in risk reduction for vulnerable families, maternal/child health, data tech, and child protective services reform. I’ve helped bring over 15 quantitative analyses to publication.
+
+In 2017, I earned a fully-funded **MPH in Global Health: Health Metrics and Evaluation** from the University of Washington. I’ve worked with large social and health data sets at the Institute for Health Metrics and Evaluation (IHME), the Public Health Foundation of India, the National Court Appointed Special Advocates (CASA)/Guardians ad Litem (GAL) Association for Children, and the Global Center for Integrated Health of Women, Adolescents, and Children (Global WACh). I am a graduate of Colorado College, where I graduated with distinction in **Neuroscience** and designed and self-directed a **Bioethics** minor. In August of 2020, I began a **Ph.D. program in Social Work** at the University of North Carolina at Chapel Hill and began working as a research assistant for the Children's Data Network.
+
+My side hustles include Irish dancing and scavenging thrift stores in search of vintage kitchenware."""
 
 [params.social]
   [[params.social.list]]
