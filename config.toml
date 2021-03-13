@@ -1,6 +1,6 @@
-baseURL = "https://clairem.netlify.com/"
+baseURL = "https://clairemcnellan.com/"
 languageCode = "en-us"
-title = "Claire McNellan"
+title = "Claire R. McNellan"
 theme = "mero"
 disableKinds = ["taxonomyTerm"]
 
