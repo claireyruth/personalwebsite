@@ -13,11 +13,11 @@ disableKinds = ["taxonomyTerm"]
 
 [params.introduction]
    text = """
-   I’m a doctoral student and researcher interested in applying **epidemiological methods** to the evaluation of **child welfare** programs, policies, and systems. I am interested in risk reduction for vulnerable families, maternal/child health, data tech, and child protective services reform. I’ve helped bring over 15 quantitative analyses to publication.
+   I’m a doctoral student and researcher interested in applying **epidemiological methods** to the evaluation of **child protection** programs, policies, and systems. I am interested in front-end services to reduce risk for vulnerable families, equity concerns about surveillance and data tech, maternal/child health, and reimagining the child welfare system in the United States. I’ve helped bring over 15 quantitative analyses to publication.
    
-   I’ve worked with large social and health data sets at the Institute for Health Metrics and Evaluation (IHME), the Public Health Foundation of India, the National Court Appointed Special Advocates (CASA)/Guardians ad Litem (GAL) Association for Children, and the Global Center for Integrated Health of Women, Adolescents, and Children (Global WACh). In 2017, I earned a fully-funded **MPH in Global Health: Health Metrics and Evaluation** from the University of Washington. I am a graduate of Colorado College, where I graduated with distinction in **Neuroscience** and designed and self-directed a **Bioethics** minor. In August of 2020, I began a **Ph.D. program in Social Work** at the University of North Carolina at Chapel Hill and began working as a research assistant for the Children's Data Network.
+   I’ve worked with large social and health data sets at the Institute for Health Metrics and Evaluation (IHME), the Public Health Foundation of India, the National Court Appointed Special Advocates (CASA)/Guardians ad Litem (GAL) Association for Children, the Global Center for Integrated Health of Women, Adolescents, and Children (Global WACh), and the Children's Data Network. In 2017, I earned a fully-funded **MPH in Global Health: Health Metrics and Evaluation** from the University of Washington. I am a graduate of Colorado College, where I graduated with distinction in **Neuroscience** and designed and self-directed a **Bioethics** minor. In August of 2020, I began a **Ph.D. program in Social Work** at the University of North Carolina at Chapel Hill.
    
-   My side hustles include Irish dancing, writing, and scavenging thrift stores in search of vintage kitchenware."""
+   My side hustles include Irish dancing, writing on my blog, and scavenging thrift stores in search of vintage kitchenware."""
 
 [params.social]
   [[params.social.list]]
@@ -35,6 +35,11 @@ disableKinds = ["taxonomyTerm"]
   icon = "fa-twitter"
   url = "https://twitter.com/claireyruth"
 
-
+  [[params.social.list]]
+  class = "fab"
+  icon = "ai ai-google-scholar"
+  url = "https://scholar.google.com/citations?user=0axomaMAAAAJ&hl=en&oi=ao""
+  title = "Google Scholar"
+            
 [params.footer]
   message = "&copy; 2020 Claire R. McNellan"
