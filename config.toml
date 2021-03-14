@@ -37,9 +37,8 @@ disableKinds = ["taxonomyTerm"]
 
   [[params.social.list]]
   class = "fab"
-  icon = "ai ai-google-scholar"
-  url = "https://scholar.google.com/citations?user=0axomaMAAAAJ&hl=en&oi=ao""
-  title = "Google Scholar"
+  icon = "fa-google"
+  url = "https://scholar.google.com/citations?user=0axomaMAAAAJ&hl=en&oi=ao"
             
 [params.footer]
   message = "&copy; 2020 Claire R. McNellan"
