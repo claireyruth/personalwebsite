@@ -1,7 +1,7 @@
 ---
 categories:
 - Category 1
-date: "2020-07-23"
+date: "2020-07-26"
 description: ""
 tags:
 - random
